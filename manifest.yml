@@ -13,4 +13,4 @@ applications:
   - my-conversation-service
   env:
     NPM_CONFIG_PRODUCTION: false
-    WORKSPACE_ID: jay_conversation
+    WORKSPACE_ID: jcdb05247-69a2-4152-bced-2e2b44f9cf22
